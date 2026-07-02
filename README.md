@@ -19,4 +19,3 @@ Both repos have full test suites and commit histories that read like a build log
 ## Currently
 
 - Open to Solutions Engineering / technical roles in AdTech and beyond
-- Reach me on [LinkedIn](https://www.linkedin.com/in/dante-sahay/)
