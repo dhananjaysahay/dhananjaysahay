@@ -1,21 +1,26 @@
 # Hi, I'm Dhananjay Sahay
 
-Solutions Engineer with ~3.5 years in AdTech and technical operations — JavaScript tracking, SQL validation, API troubleshooting, and the unglamorous work of making client integrations actually function. Based in Delhi NCR.
+Full-stack developer and security engineer with ~3.5 years in AdTech — JavaScript tracking, SQL validation, API troubleshooting, and the unglamorous work of making client integrations actually function. Based in Delhi NCR.
 
-I build things from first principles so I can defend every line. Currently deepening Python and core CS fundamentals.
+I build things from first principles so I can defend every line. Currently shipping Python + React projects and going deeper into application security.
 
-## Projects
+## Featured Projects
 
-**[Search & Indexing Engine](https://github.com/dhananjaysahay/search-engine)** — a keyword search engine in pure Python: tokenization, an inverted index, and TF-IDF ranking. No frameworks, standard library only.
+**[SecAudit — Security Auditing Toolkit](https://github.com/dhananjaysahay/SecAudit-Toolkit)** — unified CLI + web tool that audits password strength (entropy scoring, pattern detection, breach checking), discovers network devices via ARP/port scanning, and walks through WPA 4-way handshakes for educational analysis. Built with FastAPI, Scapy, python-nmap, and Rich.
 
-**[Data Validation Tool](https://github.com/dhananjaysahay/data-validator)** — a config-driven data quality validator: pulls campaign data from a SQL database via SQLAlchemy and runs rule-based checks (nulls, duplicates, value sets, bounds) with a pass/fail report.
+**[DataQual — Data Quality & ETL Platform](https://github.com/dhananjaysahay/Data-Quality-ETL-Platform)** — full-stack platform for uploading datasets, running automated quality checks (nulls, duplicates, outliers, type mismatches), applying composable cleaning pipelines, and generating PDF reports with visualizations. FastAPI + React + SQLAlchemy + Pandas.
 
-Both repos have full test suites and commit histories that read like a build log — that's deliberate.
+**[Search & Indexing Engine](https://github.com/dhananjaysahay/search-engine)** — keyword search engine in pure Python: tokenization, inverted index, TF-IDF ranking. No frameworks, standard library only.
+
+**[Data Validation Tool](https://github.com/dhananjaysahay/data-validator)** — config-driven data quality validator: pulls campaign data from SQL via SQLAlchemy, runs rule-based checks with pass/fail reporting.
+
+All repos have full test suites and commit histories that read like a build log — that's deliberate.
 
 ## Stack
 
-`Python` · `pandas` · `SQLAlchemy` · `SQL (MySQL, SQLite)` · `JavaScript` · `Chrome DevTools` · `Postman` · `Git` · `pytest`
+`Python` · `FastAPI` · `React` · `JavaScript` · `SQL` · `Pandas` · `SQLAlchemy` · `Scapy` · `Docker` · `Tailwind CSS` · `Git` · `pytest`
 
 ## Currently
 
-- Open to Solutions Engineering / technical roles in AdTech and beyond
+- Open to Full-Stack Developer, Security Engineer, and Solutions Engineering roles
+- Reach me on [LinkedIn](https://www.linkedin.com/in/dhananjay-sahay-b88a68a9/)
