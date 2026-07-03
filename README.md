@@ -23,4 +23,3 @@ All repos have full test suites and commit histories that read like a build log 
 ## Currently
 
 - Open to Full-Stack Developer, Security Engineer, and Solutions Engineering roles
-- Reach me on [LinkedIn](https://www.linkedin.com/in/dhananjay-sahay-b88a68a9/)
